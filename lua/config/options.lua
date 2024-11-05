@@ -17,4 +17,4 @@ opt.inccommand = "split"
 opt.ignorecase = true
 opt.breakindent = true
 opt.wrap = false
-opt.backspace = {"start", "eol", "indent"}
+opt.backspace = { "start", "eol", "indent" }
