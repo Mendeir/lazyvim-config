@@ -16,5 +16,9 @@ opt.scrolloff = 10
 opt.inccommand = "split"
 opt.ignorecase = true
 opt.breakindent = true
-opt.wrap = false
 opt.backspace = { "start", "eol", "indent" }
+
+vim.opt.wrap = true
+
+vim.opt.linebreak = true
+vim.opt.breakindent = true
